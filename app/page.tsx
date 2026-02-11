@@ -1,3 +1,4 @@
+import './globals.css'; // 這行非常重要，它告訴網頁要去哪裡拿化妝品
 import React from 'react';
 
 export default function Home() {
